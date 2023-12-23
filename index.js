@@ -42,4 +42,5 @@ cardsContainer.addEventListener("click", (e) => {
   //const music = document.getElementById("music");
 
   music.play()
+  music.volume=0.3;
 });
